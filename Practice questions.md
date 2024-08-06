@@ -64,5 +64,29 @@
 * **Write a Python function to find the closest pair of points in a list of points.**
 * **Given a matrix, find the maximum sum of a submatrix.**
 
-Would you like to try answering one of these questions? 
+## More Basic Python and Data Structures
+
+### Python Basics
+
+* **Write a Python function to check if a given year is a leap year.**
+* **Explain the difference between mutable and immutable data types in Python.**
+* **How do you handle exceptions in Python?**
+* **What is the difference between a list and a tuple?**
+* **Explain the use of lambda functions.**
+
+### Data Structures
+
+* **Implement a stack using a list.**
+* **Write a Python function to find the maximum and minimum elements in a list without using built-in functions.**
+* **Implement a queue using a list.**
+* **Create a Python class to represent a simple linked list.**
+* **How would you implement a dictionary using a list of tuples?**
+
+### Algorithms
+* **Implement a bubble sort algorithm.**
+* **Write a Python function to find the factorial of a number using recursion.**
+* **Implement a binary search algorithm.**
+* **Write a Python function to check if a given string is a palindrome.**
+* **Find the second largest element in a list.**
+
 
