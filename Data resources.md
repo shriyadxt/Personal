@@ -72,3 +72,7 @@ Python is constantly growing in importance for data analysts. It helps to make d
 
 
 https://github.com/l0ganc/AmazonTop100
+
+https://leetracer.com/screener
+
+https://github.com/ombharatiya/FAANG-Coding-Interview-Questions?tab=readme-ov-file#amazon
