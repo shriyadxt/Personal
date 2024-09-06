@@ -69,3 +69,6 @@ Here is a fresh list of questions I’ve seen recently:
 • How would you calculate the average order basket size based on historical sales data?
 
 Python is constantly growing in importance for data analysts. It helps to make data wrangling more efficient and it's your gateway to predictive analytics. As more and more data analyst positions require at least basic Python skills, you should be ready to handle some questions in your next interview.
+
+
+https://github.com/l0ganc/AmazonTop100
